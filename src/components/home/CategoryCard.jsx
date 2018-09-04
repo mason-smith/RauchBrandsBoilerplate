@@ -9,8 +9,7 @@ export default class CategoryCard extends React.Component {
           <img src={this.props.src} alt="Image" class="img-fluid" />
         </div>
         <div className="card-body card-body-cascade">
-          {/* ADD HEIGHT PROPERTIES TO FORCE HEIGHT */}
-          <CardTitle className="align-middle">
+          <CardTitle className="align-middle high">
             <img src={this.props.title} alt="Image" class="img-fluid" />
           </CardTitle>
           <CardText>{this.props.description}</CardText>
