@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Header correctly 1`] = `
+<Navbar
+  color="white"
+  expand="md"
+  fixed="top"
+  light={true}
+  scrolling={true}
+  tag="nav"
+>
+  <Container
+    fluid={false}
+    tag="div"
+  >
+    <NavbarBrand
+      href="/"
+      tag="a"
+    >
+      <strong>
+        Rauch Brands
+      </strong>
+    </NavbarBrand>
+    <NavbarToggler
+      onClick={[Function]}
+      tag="button"
+      type="button"
+    />
+    <Collapse
+      delay={
+        Object {
+          "hide": 350,
+          "show": 350,
+        }
+      }
+      isOpen={false}
+      navbar={true}
+      onClosed={[Function]}
+      onOpened={[Function]}
+    >
+      <NavbarNav
+        right={true}
+        tag="ul"
+      >
+        <NavLink
+          activeClassName="is-active"
+          className="navLink"
+          exact={true}
+          to="/"
+        >
+           
+          Home
+        </NavLink>
+        <NavLink
+          activeClassName="is-active"
+          className="navLink"
+          to="/about"
+        >
+           
+          About Us
+           
+        </NavLink>
+        <NavLink
+          activeClassName="is-active"
+          className="navLink"
+          to="/portfolio"
+        >
+           
+          Contact
+           
+        </NavLink>
+      </NavbarNav>
+    </Collapse>
+  </Container>
+</Navbar>
+`;

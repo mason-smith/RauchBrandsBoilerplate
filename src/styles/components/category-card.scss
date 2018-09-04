@@ -1,0 +1,42 @@
+.card {
+  font-family: $secondary-font;
+  width: 85%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.view {
+  position: absolute;
+  width: 105%;
+  top: -1rem;
+  border-radius: 2%;
+}
+
+button {
+  border-radius: 50px;
+}
+
+.btn {
+  flex: 1 1 auto;
+  text-align: center;
+  text-transform: uppercase;
+  background-size: 200% auto;
+  color: white;
+  /* text-shadow: 0px 0px 10px rgba(0,0,0,0.2);*/
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+}
+
+.btn:hover {
+  background-position: right center;
+  color: white;
+}
+
+.btn-main {
+  background-image: linear-gradient(to left, #0DF3A4 0%, #8fd3f4 51%, #1A99F4 100%);
+}
