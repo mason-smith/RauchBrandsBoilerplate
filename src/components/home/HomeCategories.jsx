@@ -39,8 +39,8 @@ class HomeCategories extends React.Component {
             >
               {/* https://images.unsplash.com/photo-1512503751345-2167dfe9d2b6?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=98b9de482fca8e782883df9252e37588&auto=format&fit=crop&w=1567&q=80 */}
               <CategoryCard
-                src="https://images.unsplash.com/photo-1509629740155-bc3c81411269?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=004d7b0adee455b267a0f21e30394107&auto=format&fit=crop&w=1950&q=80"
-                title="https://www.katandannie.com/medias/logo/logo-medium.png?fv=9A1A4659472DDEA9DEEAD601D3C729E3-12316"
+                src="https://i.imgur.com/a8bJs2t.jpg"
+                title="https://i.imgur.com/GnsuAkc.jpg"
                 description="Featuring twists on classic ornaments in vibrant colors and unique styles designed to fit a chic modern lifestyle."
                 href="https://www.katandannie.com/"
               />
