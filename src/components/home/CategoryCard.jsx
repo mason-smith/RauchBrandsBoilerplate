@@ -13,7 +13,7 @@ export default class CategoryCard extends React.Component {
             <img src={this.props.title} alt="Image" class="img-fluid" />
           </CardTitle>
           <CardText>{this.props.description}</CardText>
-          <a href={this.props.href} class="btn btn-main">
+          <a href={this.props.href} target="_blank" class="btn btn-main">
             Visit Site
           </a>
         </div>
