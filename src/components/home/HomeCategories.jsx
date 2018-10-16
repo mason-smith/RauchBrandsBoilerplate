@@ -16,7 +16,7 @@ class HomeCategories extends React.Component {
               <CategoryCard
                 src="https://i.imgur.com/Lp60LGv.jpg"
                 title="https://www.christopherradko.com/images/logo.png"
-                description="World's largest collection of Christopher Radko ornaments, including the complete 2018 collection"
+                description="For 30 years, Christopher Radko has been bringing holiday joy into homes across America as the premiere manufacturer of hand-crafted European glass ornaments. Today, our Fine European Glass collection is a showcase for the vibrant colors, exceptional quality and matchless details that have been the hallmarks of Christopher Radko® ornaments since 1985."
                 href="https://www.christopherradko.com/"
               />
             </Col>
@@ -28,7 +28,7 @@ class HomeCategories extends React.Component {
               <CategoryCard
                 src="https://www.jaystrongwater.com/medias/menu-category-jsw-Brocade-2018.jpg?fv=E5BF1482F2D979DE65E80EAF87DF35A7-387487"
                 title="https://www.jaystrongwater.com/medias/logo/logo-large.png?fv=A0D0742CE2949AC465D506D9419D9FBE-6085"
-                description="Elegant Gifts Crafted to Last a Lifetime! Frames, Figurines, Decor, &amp; More. One-of-a-Kind Designs, Handcrafted Frames, Hand Painted Jewelry, and Fine Gifts."
+                description="Jay Strongwater offers a sparkling collection of handcrafted, enameled, and bejeweled frames, vases, bowls, boxes, serving accessories, charms, pins, and figurines ranging from collectible miniatures to grand-scale art objets. The company, founded in 1995 and headquartered in New York City, has established a reputation throughout the world for its uniquely designed and handcrafted 'jewels for the home,' and ranks among the most important premium luxury brands in its distribution channels. Jay Strongwater is distributed in leading luxury department stores, fine independent retailers and through its direct to consumer business."
                 href="https://www.jaystrongwater.com/"
               />
             </Col>
