@@ -37,11 +37,10 @@ class HomeCategories extends React.Component {
               md="12"
               className="mb-lg-0 mb-5 align-middle d-flex align-items-stretch"
             >
-              {/* https://images.unsplash.com/photo-1512503751345-2167dfe9d2b6?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=98b9de482fca8e782883df9252e37588&auto=format&fit=crop&w=1567&q=80 */}
               <CategoryCard
                 src="https://i.imgur.com/a8bJs2t.jpg"
                 title="https://i.imgur.com/GnsuAkc.jpg"
-                description="Featuring twists on classic ornaments in vibrant colors and unique styles designed to fit a chic modern lifestyle."
+                description="Designed to be timeless and transform the rather traditional ornament space, Kat + Annie was created for the next generation of tree trimmers. Kat + Annie features twists on classic ornaments in vibrant colors and unique styles designed to fit a chic modern lifestyle. Ornaments are sold individually as well as meaningfully curated boxed sets in gift ready packages."
                 href="https://www.katandannie.com/"
               />
             </Col>
